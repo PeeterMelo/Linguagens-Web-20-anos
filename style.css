@@ -1,0 +1,113 @@
+
+* {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+header {
+    position: absolute;
+    border-radius: 12px;
+    margin-top: -11px;
+    display: flex;
+    justify-content: center;
+    width: 99%;
+    height: 15%;
+    color: yellow;
+    background-color: #000000;
+    text-shadow: #fff 1px 1px 1px;
+}
+
+main {
+    display: flex;
+}
+
+body {
+    background: linear-gradient(#b69f9f, #8f8e8e);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+spam {
+color: rgba(248, 12, 12, 0.973);
+}
+
+.content-box{
+    margin-left: 20%;
+    height: 140.7%;
+    width: 60%;
+    background-color: rgba(216, 210, 210, 0.726);
+    position: absolute;
+    margin-top: 10%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    border-radius: 18px;
+    box-shadow: #000000 1px 2px 2px 4px;
+}
+
+.h3-box {
+    margin-top: 2%;
+    margin-left: 15%;
+    text-shadow: #a3a0a0 3px 3px 3px;
+}
+
+#20y-subtittle {
+text-shadow: black 2px 2px 2px 2px;
+}
+
+.text-div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    position: absolute;
+    padding: 20px;
+    top: 49.5%;
+}
+
+
+img {
+    width: 68%;
+    height: 23%;
+    padding-left: 8px;
+    margin-top: -4%;
+    margin-left: 15%;
+    position: absolute;
+    border-radius: 15px;
+}
+
+#second-img {
+    margin-top: 68.7%;
+    width: 47%;
+    height: 30%;
+    margin-left: 0;
+}
+
+#second-image-text {
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    margin-top: 68%;
+    left: 50%;
+    width: 48%;
+}
+
+.content-box img {
+    height: 37%;
+    margin-top: 0%;
+    justify-content: center;
+    display: flex;
+}
+
+footer {
+    align-items: center;
+    border-radius: 24px;
+    margin-bottom: -6px;
+    height: 40px;
+    background-color: rgb(74, 148, 123);
+    display: flex;
+    justify-content: center;
+    margin-top: 113%;
+    word-spacing: 0;
+    letter-spacing: 2px;
+    width: 70%;
+}
